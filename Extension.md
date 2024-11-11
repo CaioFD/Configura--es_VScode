@@ -1,4 +1,5 @@
-Extensões que eu uso:
+Extensões utilizadas:
+
 Ayu;
 Better C++ Syntax;
 Better Comments;
